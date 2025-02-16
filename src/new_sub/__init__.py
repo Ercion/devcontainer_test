@@ -1,0 +1,1 @@
+print('data has been read from the file in new_sub/__init__.py')
